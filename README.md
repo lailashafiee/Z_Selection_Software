@@ -1,7 +1,6 @@
 # Z_Selection_Software
 Software for dynamic Z-Selection as part of ILESLA Raff rotation report.
 
-"""
 z_selection_from_tif.py
 version 3.0.0
 
@@ -29,4 +28,3 @@ Output: optimal max-projected .tif ; optimal sum-projected .tif and a diagnostic
 
 Laila Shafiee, Raff Lab ILESLA Rotation, Spring 2026
 For questions, comments and concerns, please feel free to email me: laila.shafiee@sjc.ox.ac.uk
-"""
